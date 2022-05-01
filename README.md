@@ -1,0 +1,1 @@
+Link to dataset : https://github.com/text-machine-lab/MUTT/tree/master/data/flickr
