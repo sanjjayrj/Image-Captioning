@@ -3,3 +3,6 @@
 /glove.6B
 glove.6B*
 glove.6B.zip
+encoded_test_images.pkl
+encoded_train_images.pkl
+/model_weights
